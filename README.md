@@ -22,4 +22,4 @@
 
 ## Connect with Me
 
-LinkedIn: [www.linkedin.com/in/yourprofile](http://linkedin.com/in/ahmed-fouad-78a8981b4)
+LinkedIn: (http://linkedin.com/in/ahmed-fouad-78a8981b4)
