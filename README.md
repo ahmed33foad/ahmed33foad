@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ahmad 👋
 
-<!--
-**ahmed33foad/ahmed33foad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Communications Engineer
+- Data Engineering Enthusiast
+- IT Support Experience
+- Learning Hadoop, Spark, Hive, AWS
 
-Here are some ideas to get you started:
+## Skills
+- Hadoop
+- Spark
+- Hive
+- SQL
+- Linux
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | Description |
+|----------|------------|
+| Data Pipeline | ETL using Spark |
+| Hadoop Ecosystem | HDFS, YARN, Hive |
+| Data Warehouse | Star Schema Design |
+
+## Connect with Me
+
+LinkedIn: www.linkedin.com/in/yourprofile
