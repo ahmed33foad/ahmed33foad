@@ -18,10 +18,8 @@
 
 | Project | Description |
 |----------|------------|
-| Data Pipeline | ETL using Spark |
 | Hadoop Ecosystem | [HDFS, YARN, Hive](https://github.com/ahmed33foad/NTI-BigData-Labs) |
-| Data Warehouse | Star Schema Design |
 
 ## Connect with Me
 
-LinkedIn: www.linkedin.com/in/yourprofile
+LinkedIn: [www.linkedin.com/in/yourprofile](http://linkedin.com/in/ahmed-fouad-78a8981b4)
