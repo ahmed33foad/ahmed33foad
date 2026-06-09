@@ -19,7 +19,7 @@
 | Project | Description |
 |----------|------------|
 | Hadoop Ecosystem | [HDFS, YARN, Hive](https://github.com/ahmed33foad/NTI-BigData-Labs) |
-| Hadoop GUI | [Hadoop's tools GUI] (https://github.com/ahmed33foad/NTI-BigData-Labs/blob/main/hdfs_gui_fouad.py) |
+| Hadoop GUI | (https://github.com/ahmed33foad/NTI-BigData-Labs/blob/main/hdfs_gui_fouad.py) |
 
 ## Connect with Me
 
