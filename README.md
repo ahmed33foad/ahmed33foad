@@ -19,7 +19,7 @@
 | Project | Description |
 |----------|------------|
 | Hadoop Ecosystem | [HDFS, YARN, Hive](https://github.com/ahmed33foad/NTI-BigData-Labs) |
-| Hadoop GUI | (https://github.com/ahmed33foad/NTI-BigData-Labs/blob/main/hdfs_gui_fouad.py) |
+| Hadoop GUI | [User-friendly GUI for Hadoop tools and Linux tools](https://github.com/ahmed33foad/NTI-BigData-Labs/blob/main/hdfs_gui_fouad.py) |
 | Crypto streaming pipeline | [Real-time Bitcoin pipeline using Kafka, Spark, InfluxDB and Grafana](https://github.com/ahmed33foad/NTI-BigData-Labs/tree/main/crypto-streaming-pipeline/producer) |
 
 
